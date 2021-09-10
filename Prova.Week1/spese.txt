@@ -1,0 +1,6 @@
+Data;Categoria;Descrizione;Importo;
+05/07/2021;Viaggio;Berlino;2670;
+03/04/2021;Alloggio;B&B Le Ginestre;1600;
+02/08/2021;Vitto;Pranzo Aziendale;350;
+06/08/2021;Altro;Museo;24;
+04/02/2021;Altro;Piscina;600;
